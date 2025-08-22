@@ -1,16 +1,30 @@
-## Hi there 👋
+## Introduction
+My name is Spencer Ord, and I'm a junior studying Cybersecurity at BYU. I became interested in the tech field when I entered college in 2023 and decided on Cybersecurity as my major in 2024. Since then I have learned so much and am ready to put it to use.
 
-<!--
-**sord0250/sord0250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills (in order of comfortability)
+- Microsoft Office
+- Python
+- C
+- C++
+- Linux
+- HTML
+- CSS
+- Github
+- Docker
+- JavaScript
+- PHP
+- MySQL databases
+- MongoDB databases
+- Vue framework
+- Node
+- Apache
+- Express
 
-Here are some ideas to get you started:
+## Projects
+Each of these projects is pinned to my profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hack Your Own Adventure
+
+### Smart Doorbell
+
+### Web Framework To-do list Website
