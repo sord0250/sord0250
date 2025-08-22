@@ -26,7 +26,7 @@ My name is Spencer Ord, and I'm a junior studying Cybersecurity at BYU. I became
 A group project game created in python similar to choose your own adventure books. The player will decide how he wants to hack into a company.
 
 ### Smart Doorbell
-A project using C coding and a raspberry pi to create a smart doorbell complete with joystick button and screen.
+A project using C coding and a raspberry pi to create a smart doorbell complete with joystick button and screen. However, the repo is private and not owned by me, so the complete code isn't available to pin. The main code, however, is visible.
 
 ### Web Framework To-do list Website
 A complex web development project that involved creating an API and a To-do website using the VUE Framework.
