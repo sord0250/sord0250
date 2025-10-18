@@ -30,3 +30,5 @@ A complex web development project that involved creating an API and a To-do webs
 ### Hack Your Own Adventure
 A group project game created in python similar to choose your own adventure books. The player will decide how he wants to hack into a company.
 
+### Python Automation
+A walkthrough about writing and automating python scripts. Written for audiences with beginning code experience.
