@@ -2,17 +2,16 @@
 My name is Spencer Ord, and I'm a junior studying Cybersecurity at BYU. I became interested in the tech field when I entered college in 2023 and decided on Cybersecurity as my major in 2024. Since then I have learned so much and am ready to put it to use.
 
 ## Skills (in order of ability)
-- Python
 - Python Scripting
+- Data Analysis
+- Tableau
+- SQL
 - C
 - C++
 - Linux
 - HTML
 - CSS
 - MySQL databases
-- Github
-- Docker
-- JavaScript
 - MongoDB databases
 - Vue framework
 - Node
