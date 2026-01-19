@@ -6,9 +6,9 @@ My name is Spencer Ord, and I'm a junior studying Cybersecurity at BYU. I became
 - Data Analysis
 - Tableau
 - SQL
+- Linux
 - C
 - C++
-- Linux
 - HTML
 - CSS
 - MySQL databases
