@@ -3,28 +3,25 @@ My name is Spencer Ord, and I'm a junior studying Cybersecurity at BYU. I became
 
 ## Skills (in order of ability)
 - Python Scripting
+- OS Hardening
 - Data Analysis
 - Tableau
 - SQL
+- CRM Management
 - Linux
 - C
 - C++
 - HTML
 - CSS
-- MySQL databases
 - MongoDB databases
-- Vue framework
-- Node
-- Apache
-- Express
 
 ## Projects (See Pins)
 
+### Placement Reports
+Saved my team 10+ hours of work every month by automating weekly placement reports for leadership and career directors. Learned how to use Python to connect to a mySQL database and an email using smtplib, along with manipulating data with excel via openpxyl.
+
 ### Smart Doorbell
 A project using C coding and a raspberry pi to create a smart doorbell complete with joystick button and screen. However, the repo is private and not owned by me, so the complete code isn't available to pin. The main code, however, is visible.
-
-### Web Framework To-do list Website
-A complex web development project that involved creating an API and a To-do website using the VUE Framework.
 
 ### Hack Your Own Adventure
 A group project game created in python similar to choose your own adventure books. The player will decide how he wants to hack into a company.
